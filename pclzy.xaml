@@ -1,6 +1,6 @@
 ﻿<TextBlock FontSize="20" FontWeight="Black" HorizontalAlignment="Center" Text="公告"/>
 <TextBlock FontSize="15" HorizontalAlignment="Left" TextWrapping="Wrap" Text="&#xa;暂无"/>
-
+<!-- 
 <TextBlock FontSize="15" Margin="0,300,0,0" FontWeight="Black" Text="关于我们"/>
 <local:MyListItem Margin="0,5,-5,0" 
                   Logo="https://www.baidu.com/favicon.ico" Title="官网" Info="余梦的官网" ToolTip="不来官网看看吗"
@@ -12,7 +12,7 @@
 <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
                 Text="刷新主页" EventType="刷新主页" />
 
-<!-- 
+
 
 全部通用的属性：
  - Width、Height：设置宽度与高度
