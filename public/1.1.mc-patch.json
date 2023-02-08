@@ -1,0 +1,12 @@
+{
+    "change_logs": [""],
+    "patch_hash": "e4a8c66508eded931ec10d58b7e047c2aace591a",
+    "new_folders": [".minecraft/config/CustomMainMenu"],
+    "new_files": [
+        ".minecraft/config/CustomMainMenu/mainmenu.json|f||d1795c7d6c113498a7577659f2ed98522804bf31||36d72bdffb12fcc7dd00c0172631e42ed1a1c6d2|b2|353|d6c",
+        ".minecraft/Title.txt|m|fa4dedbbe7151f74df29cd46eebd18f6884f38c8|1531c7c13fbf88846f5a7c9cd702fe2f444e30e9|f8101665e830b7ca8f39a78309a2085db3e8766c|b1ded23a1d9531e73082eefe8466d5a92112cedb|49d|49|3c"
+    ],
+    "old_files": [],
+    "old_folders": [],
+    "patch_length": 1254
+}

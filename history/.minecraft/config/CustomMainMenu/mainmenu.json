@@ -1,0 +1,129 @@
+{
+    "images":
+    {
+        "title":{
+            "image" : "custommainmenu:textures/gui/title.png",
+            "posX" : -45,
+            "posY" : 20,
+            "width" : 250,
+            "height" : 61,
+            "alignment" : "top_center"
+		},
+        "left_box":{
+            "image":"custommainmenu:textures/gui/70%.png",
+            "posX":-92,
+            "posY":-2000,
+            "width":240,
+            "height":5000,
+            "alignment":"left_center"
+        },
+        "player_hand":{
+            "image": "web:http://skin.mcyudream.cn:88/avatar/player/#username#/?png",
+            "posX":40,
+            "posY":20,
+            "width":64,
+            "height":64,
+            "alignment":"top_left"
+        }
+    },
+    "buttons":
+    {
+        "close":{
+            "text":"§4关闭客户端",
+            "posX":23,
+            "posY":50,
+            "width":98,
+            "height":20,
+            "imageWidth":98,
+            "imageHeight":20,
+            "alignment":"left_center",
+            "action":{
+                "type":"quit"
+           }
+        },
+        "skin":{
+            "text":"§3皮肤站",
+            "hoverText":"§b点击打开皮肤站(测试版暂未启用)",
+            "posX":23,
+            "posY":30,
+            "width":98,
+            "height":20,
+            "imageWidth":98,
+            "imageHeight":20,
+            "alignment":"left_center",
+            "action":{
+                "type":"openLink",
+                "link":"http://skin.mcyudream.cn:88"
+           }
+        },
+        "singleplayer":{
+            "text":"单人游戏",
+            "hoverText":"§b单人游戏？",
+            "posX":23,
+            "posY":-45,
+            "width":98,
+            "height":20,
+            "imageWidth":98,
+            "imageHeight":20,
+            "alignment":"left_center",
+            "action":{
+                "type":"openGui",
+                "gui":"singleplayer"
+            }
+        }  ,
+        "multiplayer":{
+            "text":"多人游戏",
+            "hoverText":"§8多人游戏",
+            "posX":23,
+            "posY":-25,
+            "width":98,
+            "height":20,
+            "imageWidth":98,
+            "imageHeight":20,
+            "alignment":"left_center",
+            "action":{
+                "type":"openGui",
+                "gui":"multiplayer"
+            }
+        }  ,
+        " options":{
+            "text":"游戏设置",
+            "hoverText":"§8游戏设置",
+            "posX":23,
+            "posY":-5,
+            "width":98,
+            "height":20,
+            "imageWidth":98,
+            "imageHeight":20,
+            "alignment":"left_center",
+            "action":{
+                "type":"openGui",
+                "gui":"options"
+            }
+        }     
+    },
+    "labels": 
+    {
+        "mojang": {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -145,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        "playneme": { 
+            "text": "§3#username#", 
+            "posX": 54, 
+            "posY": 90,  
+            "alignment": "top_left" 
+        }
+    },
+    "other":
+    {
+        "background":
+        {
+            "image":"custommainmenu:textures/gui/back.png",
+            "mode":"fill"
+        }
+    }
+}
