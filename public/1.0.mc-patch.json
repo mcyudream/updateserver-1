@@ -1,0 +1,13 @@
+{
+    "change_logs": [""],
+    "patch_hash": "f4666aabb62d2189e33b8febea8bf2a6512ada67",
+    "new_folders": [
+        ".minecraft",
+        ".minecraft/config",
+        ".minecraft/mods"
+    ],
+    "new_files": [".minecraft/Title.txt|f||fa4dedbbe7151f74df29cd46eebd18f6884f38c8||c74fb133f1868e8ee52bf62227ee29d46aae35a0|98|4f|1c"],
+    "old_files": [],
+    "old_folders": [],
+    "patch_length": 231
+}
