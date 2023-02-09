@@ -3,8 +3,8 @@
 <!-- 
 <TextBlock FontSize="15" Margin="0,300,0,0" FontWeight="Black" Text="关于我们"/>
 <local:MyListItem Margin="0,5,-5,0" 
-                  Logo="https://www.baidu.com/favicon.ico" Title="官网" Info="余梦的官网" ToolTip="不来官网看看吗"
-                  EventType="打开网页" EventData="https://www.baidu.com/" Type="Clickable" />
+                  Logo="https://mcyudream.github.io/me/static/image/kadse.ico" Title="官网" Info="余梦的官网" ToolTip="不来官网看看吗"
+                  EventType="打开网页" EventData="https://mcyudream.github.io/me/" Type="Clickable" />
 <local:MyListItem Margin="0,0,-5,8"
                   Logo="https://www.baidu.com/favicon.ico" Title="皮肤站" Info="就一皮肤站，兼具登入验证" ToolTip="你需要在这里注册账号并在左侧登入"
                   EventType="打开网页" EventData="https://www.baidu.com/" Type="Clickable" />

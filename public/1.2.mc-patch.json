@@ -1,0 +1,12 @@
+{
+    "change_logs": ["更新v1.2"],
+    "patch_hash": "a9fb3e54796f79e06c2a2f9a9c2802e9af04d242",
+    "new_folders": [".minecraft/scripts"],
+    "new_files": [
+        ".minecraft/scripts/update.zs|f||fb719831ff497da92717aa977a466ae500be64ce||7c4a282dfd767ff565a4ecb8237c2d662bf4707f|a0|9bd|2cd9",
+        ".minecraft/Title.txt|m|1531c7c13fbf88846f5a7c9cd702fe2f444e30e9|a393bbddafc3305eb3f01748bc56eff88221166c|7f16ca1f4881c56901fd95f34e3e113092ed7152|6402d7b4d795b746741f5c6e78b457e5819ac3f6|af5|49|32"
+    ],
+    "old_files": [],
+    "old_folders": [],
+    "patch_length": 2878
+}
